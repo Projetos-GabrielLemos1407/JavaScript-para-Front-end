@@ -1,2 +1,2 @@
 # JavaScript-para-Front-end
-Midi Alura: JavaScript: Crie páginas dinâmicas
+Curso: Alura - Conteúdo: Midi Alura (( Com JavaScript e páginas dinâmicas ))
